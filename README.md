@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="e-itau | Build. Break. Understand. Repeat." />
+</p>
 
-<!--
-**e-itau/e-itau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>OPEN SOURCE &nbsp; / &nbsp; SYSTEMS &nbsp; / &nbsp; AUTHENTICATION</samp>
+</p>
 
-Here are some ideas to get you started:
+### `$ cat about.md`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+曾是 **OpenHarmony 认证子系统的核心贡献者**。  
+Former core contributor to the **OpenHarmony authentication subsystem**.
+
+从系统底层到可用的工具，保持好奇，把想法做出来。
+
+### `$ cat philosophy.txt`
+
+```text
+[01] explore     追问它为什么这样工作
+[02] build       把想法变成能运行的东西
+[03] simplify    让复杂的系统有清晰的结构
+[04] iterate     在真实反馈中持续改进
+```
+
+---
+
+<p align="center">
+  <samp>e<sup>iτ</sup> = 1 &nbsp; · &nbsp; τ = 2π<br />
+  A full turn. A fresh start.</samp>
+</p>
