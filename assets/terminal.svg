@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">e-itau — personal terminal</title><desc id="desc">A dark terminal with cyan accents and Euler's identity on the complex plane.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090f19"/><stop offset="1" stop-color="#111f2c"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#55f0cb"/><stop offset="1" stop-color="#55b9ff"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#244051" opacity=".45"/></pattern>
+</defs>
+<rect width="1200" height="400" rx="16" fill="url(#bg)"/>
+<rect width="1200" height="400" rx="16" fill="url(#grid)"/>
+<rect x="24" y="24" width="1152" height="352" rx="10" fill="#0b121dcc" stroke="#263748"/>
+<path d="M24 68H1176" stroke="#263748"/>
+<circle cx="49" cy="46" r="5" fill="#fb7185"/><circle cx="68" cy="46" r="5" fill="#fbbf24"/><circle cx="87" cy="46" r="5" fill="#55f0cb"/>
+<g font-family="Consolas, 'Liberation Mono', monospace">
+<text x="112" y="51" font-size="13" fill="#8294a8">e-itau@github: ~</text>
+<text x="1100" y="51" font-size="12" fill="#55f0cb" text-anchor="end">UTF-8</text>
+<text x="62" y="116" font-size="16" fill="#55f0cb">$ whoami</text>
+<text x="58" y="190" font-size="68" fill="#eff7ff" font-weight="700" letter-spacing="-3">e-itau<tspan fill="#55f0cb">_</tspan></text>
+<text x="62" y="231" font-size="18" fill="#b7c8d8">Build. Break. Understand. Repeat.</text>
+<rect x="62" y="259" width="48" height="3" fill="url(#accent)"/>
+<text x="62" y="300" font-size="13" fill="#8294a8">OPEN SOURCE / SYSTEMS / AUTHENTICATION</text>
+<text x="62" y="340" font-size="13" fill="#55f0cb">&gt; curiosity is the starting point.</text>
+</g>
+<g transform="translate(980 211)" fill="none">
+<circle r="102" stroke="#294759"/><circle r="77" stroke="#223343" stroke-dasharray="3 7"/>
+<path d="M-126 0H126M0-126V126" stroke="#294759"/>
+<path d="M102 0A102 102 0 1 0 0 102" stroke="url(#accent)" stroke-width="3"/>
+<path d="M-7 95L0 104L8 95" stroke="#55f0cb" stroke-width="2"/>
+<circle cx="102" r="6" fill="#55f0cb" stroke="#0b121d" stroke-width="3"/>
+</g>
+<g font-family="Consolas, 'Liberation Mono', monospace" text-anchor="middle">
+<text x="980" y="208" font-size="27" fill="#eef7ff">e<tspan dy="-15" font-size="17" fill="#55f0cb">iτ</tspan><tspan dy="15" font-size="27"> = 1</tspan></text>
+<text x="980" y="237" font-size="12" fill="#8294a8">τ = 2π</text>
+<text x="980" y="351" font-size="12" fill="#8294a8">A FULL TURN. A FRESH START.</text>
+</g>
+</svg>
