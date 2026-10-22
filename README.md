@@ -37,10 +37,3 @@ Former core contributor to the **OpenHarmony authentication subsystem**.
 [03] simplify    让复杂的系统有清晰的结构
 [04] iterate     在真实反馈中持续改进
 ```
-
----
-
-<p align="center">
-  <samp>e<sup>iτ</sup> = 1 &nbsp; · &nbsp; τ = 2π<br />
-  A full turn. A fresh start.</samp>
-</p>
