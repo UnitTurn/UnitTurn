@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="e-itau | Build. Break. Understand. Repeat." />
+  <img src="./assets/terminal.svg?v=ring" width="100%" alt="e-itau | Build. Break. Understand. Repeat." />
 </p>
 
 <p align="center">
