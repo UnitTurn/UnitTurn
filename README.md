@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="./assets/terminal.svg?v=ring" width="100%" alt="e-itau | Build. Break. Understand. Repeat." />
+  <img src="./assets/terminal.svg?v=expitau" width="100%" alt="expitau.one | Build. Break. Understand. Repeat." />
 </p>
 
 <p align="center">
   <samp>OPEN SOURCE &nbsp; / &nbsp; SYSTEMS &nbsp; / &nbsp; AUTHENTICATION</samp>
+</p>
+
+<p align="center">
+  <a href="https://expitau.one">expitau.one</a> &nbsp; / &nbsp;
+  <a href="mailto:hello@expitau.one">hello@expitau.one</a>
 </p>
 
 ### `$ cat about.md`
