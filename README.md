@@ -13,18 +13,6 @@ Former core contributor to the **OpenHarmony authentication subsystem**.
 
 从系统底层到可用的工具，保持好奇，把想法做出来。
 
-### `$ git log --oneline --past-work`
-
-**OpenHarmony · Identity &amp; Authentication**
-
-| Area | Selected contributions |
-| :--- | :--- |
-| User authentication | [账号子系统调用适配 · !413](https://gitee.com/openharmony/useriam_user_auth_framework/pulls/413) |
-| PIN authentication | [OpenSSL 静态库转动态库 · !222](https://gitee.com/openharmony/useriam_pin_auth/pulls/222) |
-| Code review | [认证框架 NAPI 优化评审 · !410](https://gitee.com/openharmony/useriam_user_auth_framework/pulls/410) |
-
-<samp>Historical contributions · Gitee: <a href="https://gitee.com/BaiWeiQiu">BaiWeiQiu</a> · Not a current maintainer</samp>
-
 ### `$ ls interests/`
 
 `game-development/` &nbsp; `ai-workflows/` &nbsp; `developer-tools/`
