@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
-<title id="title">e-itau — personal terminal</title><desc id="desc">A dark terminal with a simple cyan ring.</desc>
+<title id="title">expitau.one — personal terminal</title><desc id="desc">A dark terminal with a simple cyan ring.</desc>
 <defs>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090f19"/><stop offset="1" stop-color="#111f2c"/></linearGradient>
 <linearGradient id="accent"><stop stop-color="#55f0cb"/><stop offset="1" stop-color="#55b9ff"/></linearGradient>
@@ -11,10 +11,10 @@
 <path d="M24 68H1176" stroke="#263748"/>
 <circle cx="49" cy="46" r="5" fill="#fb7185"/><circle cx="68" cy="46" r="5" fill="#fbbf24"/><circle cx="87" cy="46" r="5" fill="#55f0cb"/>
 <g font-family="Consolas, 'Liberation Mono', monospace">
-<text x="112" y="51" font-size="13" fill="#8294a8">e-itau@github: ~</text>
+<text x="112" y="51" font-size="13" fill="#8294a8">expitau.one@github: ~</text>
 <text x="1100" y="51" font-size="12" fill="#55f0cb" text-anchor="end">UTF-8</text>
 <text x="62" y="116" font-size="16" fill="#55f0cb">$ whoami</text>
-<text x="58" y="190" font-size="68" fill="#eff7ff" font-weight="700" letter-spacing="-3">e-itau<tspan fill="#55f0cb">_</tspan></text>
+<text x="58" y="190" font-size="68" fill="#eff7ff" font-weight="700" letter-spacing="-3">expitau.one<tspan fill="#55f0cb">_</tspan></text>
 <text x="62" y="231" font-size="18" fill="#b7c8d8">Build. Break. Understand. Repeat.</text>
 <rect x="62" y="259" width="48" height="3" fill="url(#accent)"/>
 <text x="62" y="300" font-size="13" fill="#8294a8">OPEN SOURCE / SYSTEMS / AUTHENTICATION</text>
