@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal.svg?v=5796075" width="100%" alt="expitau.one | Build. Break. Understand. Repeat." />
+  <img src="https://raw.githubusercontent.com/UnitTurn/expitau.one/579607578435cd7db734e7c4b3c9cd2f85950acb/assets/terminal.svg" width="100%" alt="expitau.one | Build. Break. Understand. Repeat." />
 </p>
 
 <p align="center">
