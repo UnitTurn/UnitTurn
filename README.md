@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal.svg?v=expitau" width="100%" alt="expitau.one | Build. Break. Understand. Repeat." />
+  <img src="./assets/terminal.svg?v=5796075" width="100%" alt="expitau.one | Build. Break. Understand. Repeat." />
 </p>
 
 <p align="center">
