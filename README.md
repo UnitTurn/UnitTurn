@@ -4,14 +4,12 @@
 </picture>
 
 <p align="center">
-  <a href="https://expitau.one"><picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/UnitTurn/UnitTurn/main/assets/website-compact.webp">
-    <img src="./assets/website.webp" width="49%" alt="个人网站 · expitau.one">
-  </picture></a>
-  <a href="mailto:hello@expitau.one"><picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/UnitTurn/UnitTurn/main/assets/email-compact.webp">
-    <img src="./assets/email.webp" width="49%" alt="联系邮箱 · hello@expitau.one">
-  </picture></a>
+  <a href="https://expitau.one"><picture><source media="(max-width: 640px)"
+    srcset="https://raw.githubusercontent.com/UnitTurn/UnitTurn/main/assets/website-compact.webp"><img
+    src="./assets/website.webp" width="49%" alt="个人网站 · expitau.one"></picture></a>
+  <a href="mailto:hello@expitau.one"><picture><source media="(max-width: 640px)"
+    srcset="https://raw.githubusercontent.com/UnitTurn/UnitTurn/main/assets/email-compact.webp"><img
+    src="./assets/email.webp" width="49%" alt="联系邮箱 · hello@expitau.one"></picture></a>
 </p>
 
 ## 关于我 · About
